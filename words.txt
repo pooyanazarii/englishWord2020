@@ -1,0 +1,9 @@
+hello  سلام
+
+food  غذا 
+
+good  خوب 
+
+test تست 
+
+bad بد

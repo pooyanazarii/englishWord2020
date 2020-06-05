@@ -1,4 +1,4 @@
-hello  سلام
+hellow  سلام
 
 food  غذا 
 

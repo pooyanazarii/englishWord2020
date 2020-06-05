@@ -1,6 +1,6 @@
 hellow  سلام
 
-foode  غذا 
+fiode  غذا 
 
 good  خوب 
 

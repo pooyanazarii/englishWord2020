@@ -6,4 +6,4 @@ good  خوب
 
 test تست 
 
-bad بد
+bade بد

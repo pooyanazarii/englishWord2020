@@ -1,7 +1,5 @@
 hellow  سلام
 
-foude  غذا 
-
 good  خوب 
 
 test تست 
